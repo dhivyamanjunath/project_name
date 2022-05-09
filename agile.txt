@@ -1,0 +1,157 @@
+Agile Notes
+-----------
+Sdlc= Software Development Life cycle. in simple words the process of developing testing and releasing the software into a market.
+
+types of Sdlc models
+------------------------
+      waterfall- it is the old and traditional first metholody.
+      sprial
+      vmodel
+      Agile
+water fall model Drawbacks:
+---------------------------------
+1) Requirements must be clear and stable
+2)Testing comes late into the picture feedback and aditional requirements from client cant be integrated
+3)Humongous efforts needed for documentation
+4)time consuming
+5)changes for correcting the errors  are very minimal  and changes for errors are very high
+6)waterfall can either be a huge sucess or a huge Failure
+
+General meaning word for Agile- able to move quickly and easily
+ instance change  due to the sution.
+technical 
+----------
+what is agile?
+Agile is an iterative approach to project management and software development that helps teams
+deliver value to their customers faster and with fewer headaches.
+Instead of bigbang launch an agile team delivers work in small yet consumable.
+requirements plans and results are evaliated continuously so teams have a natural mechanisms for responding to change quickly.
+
+Agile fameworks
+-------------------
+Scrum
+kanban
+extreme programming(Xp)
+Scaled Agile framework(sAfe)
+
+Scrum
+--------
+scrum is a framework for developing and sustining complex products.
+Scrum describes a set of meeting tools and roles that work in concert to help teams structure and manage their work.
+
+Scrum roles
+-------------
+Developers(Team)
+product Owner
+Scrum master
+
+sprint task 1 to 4 weeks or 1-15 days meeting held on daily basics is called scrum meeting or standup meeting.
+retrospecive=team perfomance.
+sprint review= product review.
+balance will be added to blacklog
+
+product owner:
+------------------
+Providing the vision of the product of the team.
+managing the product blacklog in a clear and transprent way.
+prioritize the baclog items to achive the best output
+Explanning the product baclogs in a clear manner to the team to help the team to make the better desisons.
+
+team(product backlog ->shippable team)
+------------------------------------------------
+Self organized(What to commit and how to commit)
+cross function(analysis,dev,testing,Db) and structured team)
+Team is accountable as a whole (No blame game on a single person)
+usally team size 5-7
+
+Scrum master
+----------------
+Helps team to adopt scurm
+helps team to self organise
+protects  the team from the outside interference
+conducts scrum events
+Eliminates obstructions for the progress of the team
+Important:scrum master and product owner are diffrent persons.
+
+
+Scrum cermonies
+---------------------
+1)  cermony : sprint planning:
+      particpants: Team, Scrum master,product owner.
+      duration:2 hrs
+      when: occurs before the start of the sprint 	 
+      purpose:
+	i) The dev team will discuss about each item on the prioritized backlog that the po has and the entire group collectively estimates the effort involved.
+	ii)dev team will make forecast on how much work can be done on that sprint considering Several factors and risks
+	iii) the shortlisted list of backlog becomes Sprint Backlog.
+
+
+2)  cermony : Daily Standup meeting or scrum meeting or scrum call. conducted by scrum master.
+      particpants: Team, Scrum master,product owner.
+      duration: 15 mins
+      when: occurs daily 
+      purpose:
+	i) to quickly inform every one on whats going on across the team.
+	ii) its not detailed one. it should be sort and to the point.
+	The following questions are answered by the team
+		a) what did I complete yesterday?
+		b) what will i work on today?
+		c) Am i blocked by anything?
+
+
+
+3)  cermony : sprint review.
+      particpants: Team, Scrum master,product owner.
+      duration: 30 mins to 1 hour
+      when: At the end of each sprint.
+      purpose:
+	i) the team will showcase the work they did.
+	ii) this event is to celebrate the completion of itreation and get feedback about the completed work.
+	iii) this event usally happends on friday and is more like a fun meeting rather than a formal one.
+4)  cermony : sprint retrospective.
+      particpants: Team, Scrum master,product owner.
+      duration: 1 hour
+      when: At the end of each sprint.
+      purpose:
+	i) retrospective meeting help the team understand "what went well "and "what did't " for the team.
+	ii)Rather than complanning team will keep doing things which are under
+	 "What went well" category and will try to find creative solutions for things that didn't go well.
+	iii)continuously getting and adapted and learning is the ESSENCE of Agile and retrospective is the KEY place for that.
+
+
+scrum Artifacts(set of documents)
+------------------
+Scrum Artifacts = i)work or value created by the scrum partipants
+	              which is transpent and helps team to inspect and adapt.
+	          ii)This Artifact details the product being developed actions needed to 
+                                 produce the product and actions performed during the project.
+	     
+i)product backlog: 
+	a) product owner explains the vision of the project during the intial stage 
+	    and this evolves into a well defined set ofrequirements for the product
+	    called product backlog.
+	b) it is updated on a continous manner by the product owner to 
+	    accomodate the changes in the customer end or to reflect 
+	    changes due to risks,issues etc.. 
+ii) sprint backlog:
+	a) it is a set of task selected from the product backlog. 
+	    the team will work on these baclog items to create 
+	    the increment. (potentially product)
+	b) Sprint backlog is created by picking up some task 
+	    on the product backlog and breaking them into 
+	    several actionable sprint items.
+iii) increment:
+	a) it is the resultant product of the Sprint produced by completing the sprint Backlog task.
+	b) Every sprint must have a potentially shippable increment.
+vi)Definition of done:(its is not offical)
+v) burn down chart(its is not offical)
+
+Scrum values
+----------------
+i)courage: scrum team members have courage to do the right thing and work on tough problems
+ii)Focus: Everyone focusses on the work of the sprint and the goals of the scrum team.
+iii)commitment:people personallycommit to achiveing the goals of the scrum team
+iv)respect:scrum team members respect each other to capable independent people.
+v)openness: the scrum team and its stake holders agree to be open about all the work and the challeges with performing the work.
+
+
